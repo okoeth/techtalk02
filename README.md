@@ -13,5 +13,6 @@ You can simply build and run the container with
 
 ## Run remotely in My Binder
 In case you have not Docker installed or want to try this from an iPad or another mobile device, 
-you can also run the container in a remote web service calles My Binder:
+you can also run the container in a remote web service called My Binder:
+https://mybinder.org/v2/gh/okoeth/techtalk02/master
 
