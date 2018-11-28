@@ -1,4 +1,5 @@
 *.png
 *.tex
 *.html
+.ipynb_checkpoints/*
 
