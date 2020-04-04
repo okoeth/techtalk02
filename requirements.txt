@@ -6,6 +6,7 @@ bokeh>=0.13.0
 geopy==1.17.0
 units>=0.0.7
 stravalib==0.9.4
+python-tcxparser==1.1.0
 
 
 
